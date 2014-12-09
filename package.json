@@ -1,0 +1,17 @@
+{
+  "name": "CrewPortTester",
+  "version": "0.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "externalip": "0.0.1",
+    "jxm": "^0.3.5",
+    "request": "^2.50.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
